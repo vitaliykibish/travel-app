@@ -1,11 +1,16 @@
 # Travel App
 
-This app helps you to find a convenient flights from your offices.
+This app helps you to find convenient flights from your offices.
 It presents a list of flights for each direction based on your location including weather.
+
+## Demo
+
+[visit public link](https://vitaliykibish.github.io/travel-app/)
 
 ## Table of contents
 
 - [Travel App](#travel-app)
+  - [Demo](#demo)
   - [Table of contents](#table-of-contents)
   - [Stack](#stack)
   - [Getting Started](#getting-started)
